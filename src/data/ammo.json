@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "manufacturer": "PPU",
+    "name": "Ammo 9mm",
+    "sku": 12345678,
+    "pricePerBox": 25.99,
+    "pricePerRound": 0.26,
+    "photo": "ammo_21.jpg",
+    "purpose": "training",
+    "description": "Quality 9mm ammunition for training purposes."
+  },
+  {
+    "id": 2,
+    "manufacturer": "Armscore",
+    "name": "Ammo .45 ACP",
+    "sku": 23456789,
+    "pricePerBox": 35.99,
+    "pricePerRound": 0.36,
+    "photo": "ammo_22.jpg",
+    "purpose": "duty",
+    "description": ".45 ACP ammunition for duty use with reliable performance."
+  },
+  {
+    "id": 3,
+    "manufacturer": "Ammo inc",
+    "name": "Ammo 5.56mm",
+    "sku": 34567890,
+    "pricePerBox": 29.99,
+    "pricePerRound": 0.3,
+    "photo": "ammo_23.jpg",
+    "purpose": "training",
+    "description": "Versatile 5.56mm ammunition suitable for training scenarios."
+  },
+  {
+    "id": 4,
+    "manufacturer": "S & B",
+    "name": "Ammo .308 Win",
+    "sku": 45678901,
+    "pricePerBox": 45.99,
+    "pricePerRound": 0.46,
+    "photo": "ammo_24.jpg",
+    "purpose": "duty",
+    "description": ".308 Winchester ammunition for duty use with excellent accuracy."
+  },
+  {
+    "id": 5,
+    "manufacturer": "Precision",
+    "name": "Ammo 12 Gauge",
+    "sku": 56789012,
+    "pricePerBox": 18.99,
+    "pricePerRound": 0.19,
+    "photo": "ammo_25.jpg",
+    "purpose": "training",
+    "description": "Reliable 12 Gauge ammunition for training purposes."
+  },
+  {
+    "id": 6,
+    "manufacturer": "Doubletap",
+    "name": "Ammo .22 LR",
+    "sku": 67890123,
+    "pricePerBox": 12.99,
+    "pricePerRound": 0.13,
+    "photo": "ammo_1.jpg",
+    "purpose": "training",
+    "description": "Bulk .22 LR ammunition for cost-effective training."
+  },
+  {
+    "id": 7,
+    "manufacturer": "Underwood",
+    "name": "Ammo 7.62x39mm",
+    "sku": 78901234,
+    "pricePerBox": 21.99,
+    "pricePerRound": 0.22,
+    "photo": "ammo_27.jpg",
+    "purpose": "duty",
+    "description": "7.62x39mm ammunition for duty use with consistent performance."
+  },
+  {
+    "id": 8,
+    "manufacturer": "Fiocchi",
+    "name": "Ammo 6.5mm Crm",
+    "sku": 89012345,
+    "pricePerBox": 39.99,
+    "pricePerRound": 0.4,
+    "photo": "ammo_28.jpg",
+    "purpose": "duty",
+    "description": "Premium 6.5mm Creedmoor ammunition for precision duty applications."
+  },
+  {
+    "id": 9,
+    "manufacturer": "Makarov",
+    "name": "Ammo .380 ACP",
+    "sku": 90123456,
+    "pricePerBox": 22.99,
+    "pricePerRound": 0.23,
+    "photo": "ammo_21.jpg",
+    "purpose": "training",
+    "description": "Ammo .380 ACP for compact handguns, suitable for training."
+  }
+]
